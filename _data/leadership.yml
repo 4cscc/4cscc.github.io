@@ -35,8 +35,8 @@
   institution: Northern Arizona University
   pic: naomi.jpg
 
-- name: Jeff Meilander
-  title: PhD Student, Caporaso Lab
+- name: Jeff Meilander, PhD
+  title: Program Manager/Research Scientist , Caporaso Lab
   institution: Department of Biological Sciences, Northern Arizona University
   pic: jeff.png
 
@@ -44,3 +44,8 @@
   title: Program Manager
   institution: Institute for Tribal Environmental Professionals, Northern Arizona University
   pic: mansel.jpg
+
+- name: Franklin Stewart
+  title: Lead Instructor
+  institution: Northern Arizona University
+  pic: franklin.jpg
