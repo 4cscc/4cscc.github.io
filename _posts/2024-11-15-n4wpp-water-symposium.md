@@ -7,7 +7,7 @@ author: Franklin Stewart
 ---
 # 4CSCC at the 2024 N4WPP Water Symposium
 
-The Navajo Nation Water Purification Project (N4WPP) Water Symposium took place on November 15, at Diné College in Shiprock, New Mexico, and is a collaborative effort between Navajo Technical University (NTU) and New Mexico Tech (NMT) to bring education and research opportunities for high school students.  The N4WPP is aimed to provide lonsg-term goals of providing clean drinking water to the Navajo Nation, its efforts gear students toward a career in hydrology and civil engineering through community leadership and planning.  
+The Navajo Nation Water Purification Project (N4WPP) Water Symposium took place on November 15, at Diné College in Shiprock, New Mexico, and is a collaborative effort between Navajo Technical University (NTU) and New Mexico Tech (NMT) to bring education and research opportunities for high school students.  The N4WPP aims to provide clean drinking water to the Navajo Nation long-term, and its efforts gear students toward a career in hydrology and civil engineering through community leadership and planning.  
 
 Further, the N4WPP’s effort is to train students on water quality.  Student projects involved creating water filtration units with essential household items.  This project gave insight into providing long-term, sustainable water resources for agriculture, livestock, and home use throughout the Navajo Nation.
 
